@@ -1,7 +1,8 @@
-# Personalized-Cancer-Diagnosis
+# Personalized-Cancer-Diagnosis(Multi-Class Classification Problem)
 
 1. Business Problem (Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/): 
    Classify the cancer mutations based on text based clinical literature
+   
    
 2. Data: Memorial Sloan Kettering Cancer Center (MSKCC)
 3. Constraints :
