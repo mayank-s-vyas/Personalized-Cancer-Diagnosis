@@ -20,3 +20,13 @@
    * Confusion matrix
    
    
+## Results
+After applying different Models on different Text Encoded data, and Hyper-parameter tuning, Logistic Regression Performed best and shown the performance as foolows:
+
+ * Text Data Encoding :  TFIDF(Uni & Bi-Grams)
+ * Model    : Logistic Regression
+ * train_log_Loss : 0.3866104195807289
+ * cv_log_Loss    : 0.9909461077457965
+ * test_log_Loss  : 0.9938288741108963
+ * Misclassified Pnts : 0.35037593984962406
+
